@@ -7,4 +7,4 @@ Integrating your Drupal Commerce store with Og Checkout services allows you to a
 -Drupal v7.5 or higher
 
 # Extension Setup Guide
-Visit https://oneglobal.gitbook.io/ogcheckout/plugins-setup-guide/opencart
+Visit https://oneglobal.gitbook.io/ogcheckout/plugins-setup-guide/drupal
