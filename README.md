@@ -5,7 +5,7 @@ Integrating your Drupal Commerce store with Og Checkout services allows you to a
 
 # Supported Versions
 -Drupal v7.5x with Drupal Commerce v7.x-1.10x<br>
--Drupal v8.9.x with Drupal Commerce v2.19x
+-Drupal v8.9.x with Drupal Commerce v8.x-2.19x
 
 # Extension Setup Guide
 Visit https://checkoutdocs.oneglobal.com/plugins-setup-guide/drupal
